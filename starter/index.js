@@ -10,3 +10,38 @@ function writeToFile(fileName, data) {
 async function init() {
   const { default: inquirer } = await import('inquirer');
   const generateMarkdown = require('./utils/generateMarkdown');
+
+// Array of questions for user input
+const questions = [
+  {
+    type: 'input',
+    name: 'title',
+    message: "What is your project's title?",
+  },
+  {
+    type: 'input',
+    name: 'description',
+    message: 'Please provide a description of your project:',
+  },
+  {
+    type: 'list',
+    name: 'license',
+    message: 'Choose a license for your project:',
+    choices: ['MIT', 'Apache 2.0', 'GPL 3.0', 'BSD 3-Clause', 'None'],
+  },
+  {
+    type: 'input',
+    name: 'name',
+    message: 'What is your name?',
+  },
+  {
+    type: 'input',
+    name: 'github',
+    message: 'What is your GitHub username?',
+  },
+  {
+    type: 'input',
+    name: 'email',
+    message: 'What is your email address?',
+  },
+];
