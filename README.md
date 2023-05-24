@@ -1,19 +1,5 @@
 # Module 11 Challenge: Professional README Generator
 
-## Your Task
-
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project. 
-
-You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
-
-Your task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). Review the [Good README Guide](../../01-HTML-Git-CSS/04-Important/Good-README-Guide/README.md) as a reminder of everything that a high-quality, professional README should contain. 
- 
-The application will be invoked by using the following command:
-
-```bash
-node index.js
-```
-
 ## User Story
 
 * As a developer, I want a README generator so that I can quickly create a professional README for a new project
@@ -39,52 +25,27 @@ node index.js
     * When a user enters their email address then this is added to the section of the README entitled Questions, with instructions on how to reach them with additional questions
     * When a user clicks on the links in the **Table of Contents** then they are taken to the corresponding section of the README
 
-## Getting Started
+## Technology
 
-Here are some guidelines to help you get started:
+- javascript
+- node js
+- inquirer
+- readme file
+- Json
 
-* Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
+## Screenshot
 
-* Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
+Readme file generated
 
-## Grading Requirements
+## Walkthrough video
 
-This Challenge is graded based on the following criteria: 
+
 
 ### Deliverables: 20%
 
 * A sample README generated using the application must be submitted.
 
 * Your GitHub repository containing your application code.
-
-### Technical Acceptance Criteria: 55%
-
-* Satisfies all of the above acceptance criteria plus the following:
-
-	* Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
-
-### Repository Quality: 25%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains a high-quality README with description and a link to walkthrough video.
-
-
-## Review
-
-You are required to submit the following for review:
-
-* A walkthrough video demonstrating the functionality of the application.
-
-* A sample README.md file for a project repository generated using your application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
 
 ---
 
