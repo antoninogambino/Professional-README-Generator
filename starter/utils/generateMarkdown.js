@@ -34,3 +34,5 @@ If you have any questions, you can reach me through the following channels:
 - Email: ${data.email}
 `;
 }
+
+module.exports = generateMarkdown;
