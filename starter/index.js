@@ -56,4 +56,7 @@ inquirer.prompt(questions).then((answers) => {
 });
 }
 
+// Function call to initialize program
+init();
+
 
