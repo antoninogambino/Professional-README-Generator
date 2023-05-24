@@ -1,8 +1,8 @@
 
-# Readme generator app
+# Readme file generator
 
 ## Description
-A node app to generate readme files
+A code based app with node js to create readme files
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,19 +13,19 @@ A node app to generate readme files
 - [Questions](#questions)
 
 ## Installation
-undefined
+download from github repository
 
 ## Usage
-undefined
+using the terminal go to the starter folder and type node index.js to start the generator
 
 ## License
 MIT
 
 ## Contributing
-undefined
+Any amends please request throught github
 
 ## Tests
-undefined
+if you want to test the application make sure you have visual studio code, and use node index.js
 
 ## Questions
 If you have any questions, you can reach me through the following channels:
