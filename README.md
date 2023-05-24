@@ -42,6 +42,9 @@ Readme file generated
 
 ## Walkthrough video
 
+![image](https://github.com/antoninogambino/Professional-README-Generator/assets/112243266/747995cf-2a5d-40ba-ae5c-53773d59a343)
+
+
 
 
 ### Deliverables: 20%
