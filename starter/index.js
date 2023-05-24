@@ -45,3 +45,15 @@ const questions = [
     message: 'What is your email address?',
   },
 ];
+
+inquirer.prompt(questions).then((answers) => {
+  const readmeContent = generateMarkdown(answers);
+  const readmeFileName = 'README.md';
+  const readmeFilePath = path.join(__dirname, readmeFileName);
+
+  writeToFile(readmeFilePath, readmeContent);
+  console.log(`Successfully generated ${readmeFileName}`);
+});
+}
+
+
