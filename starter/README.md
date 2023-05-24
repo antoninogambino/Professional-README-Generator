@@ -1,8 +1,8 @@
 
-# README file generator
+# Readme generator app
 
 ## Description
-A node js code to create readme files
+A node app to generate readme files
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,21 +13,21 @@ A node js code to create readme files
 - [Questions](#questions)
 
 ## Installation
-Use github to clone the code and use the code node index.js on terminal
+undefined
 
 ## Usage
-use it through terminal
+undefined
 
 ## License
 MIT
 
 ## Contributing
-none
+undefined
 
 ## Tests
-none
+undefined
 
 ## Questions
 If you have any questions, you can reach me through the following channels:
-- GitHub: [antonino.gambino](https://github.com/antonino.gambino)
-- Email: antonino.gambino24@gmail.com
+- GitHub: [antoninogambino](https://github.com/antoninogambino)
+- Email: antoninogambino24@gmail.com

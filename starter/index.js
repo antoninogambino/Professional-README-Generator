@@ -24,6 +24,16 @@ const questions = [
     message: 'Please provide a description of your project:',
   },
   {
+    type: 'input',
+    name: 'installation',
+    message: 'Please provide installation instructions:',
+  },
+  {
+    type: 'input',
+    name: 'usage',
+    message: 'Please provide usage information:',
+  },
+  {
     type: 'list',
     name: 'license',
     message: 'Choose a license for your project:',
@@ -31,8 +41,13 @@ const questions = [
   },
   {
     type: 'input',
-    name: 'name',
-    message: 'What is your name?',
+    name: 'contributing',
+    message: 'Please provide contribution guidelines:',
+  },
+  {
+    type: 'input',
+    name: 'tests',
+    message: 'Please provide testing instructions:',
   },
   {
     type: 'input',
