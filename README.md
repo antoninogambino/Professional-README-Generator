@@ -42,9 +42,7 @@ Readme file generated
 
 ## Walkthrough video
 
-![image](https://github.com/antoninogambino/Professional-README-Generator/assets/112243266/747995cf-2a5d-40ba-ae5c-53773d59a343)
-
-ADD LINK
+(https://pdx.cdn.nv.instructuremedia.com/originals/o-5cn5sUoWq9NemHcbmkjJZXZUA3JDsaaf/transcodings/t-5d88vcizGqGex7qzKcvD3qDmypzF7K6v.mp4?&Expires=1685546743&Signature=hRhM73cTGcZ-Lh2PL7ZjaD~oPaCIO2gccBqdaerLJmskvu40TEguUeI8iCrntX2RRKAkW5NNMk8a2Al92e1J27r7sMTkZrw4yqzUhehnzsE2JyHQxhV~DlOdMB2vGODHr4eWBPu-4EEj5Jn~b4JQOqZZEf6GlQwwSCqTUhoxDOtvY13NrpfpdS8Wo5hALNBC279~mWuCimphrM-48Q4jA~hdUyJaDXR3a16~VuivQHWXgKoTznbjNN1zZBxl2mJ1i70KrJTIjQSrV0m9Mw133z0AToYMXkGS16I5Ex-JvyvFrdqeRAZqicPVDzOvm-R3oKuNr3D4qlf6Y346oEb1XQ__&Key-Pair-Id=APKAJLP4NHW7VFATZNDQ)
 
 ---
 
